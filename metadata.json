@@ -1,0 +1,6 @@
+{
+  "name": "Neon Snake",
+  "description": "Neon Snake arcade game with smooth controls, grid board, dynamic speed, and score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
